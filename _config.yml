@@ -1,0 +1,28 @@
+name: ericslack
+favicon: null
+layout_spectrum: 0.8863113129045814
+typography_spectrum: 0.532050880137831
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.27721975231543183
+  lightness: 0.541284738574177
+  saturation: 0.7958215896505862
+  rhythmicContrast: 0.9301202399656177
+purpose: []
